@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bungee+Inline&family=Bungee+Shade&display=swap');
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  width: 75%;
+  height: 13%;
+  margin: auto;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background: rgba(43, 43, 43, 0.3); /* semi-transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  justify-content: space-evenly;
+  flex-direction: row;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+/* nav:hover {
+  box-shadow: 0 4px 20px 10px rgba(255, 255, 255, 0.06); /* soft white glow */
+  /* transition: box-shadow 0.3s ease-in-out; */
+/* } */ 
+
+
+.navtextlogo{
+ /* font-family: "Bungee Shade", sans-serif; */
+ font-family: "Bebas Neue", system-ui;
+  font-weight: 500;
+  
+  font-size: 25px;
+  font-style: normal;
+  color: white;
+  
+  
+}
+
+.ull{
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  
+  font-size: larger;
+}
+.ull a:hover{
+    transition: 0.2s ease-in-out;
+    color: rgb(28, 0, 168);
+}
+
+ /* .bungee-inline-regular {
+  font-family: "Bungee Inline", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  .rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+. font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+.bungee-regular{
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bungee-shade-regular {
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} 
+ */
+
+ 

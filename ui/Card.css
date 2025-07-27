@@ -1,0 +1,30 @@
+.cardc {
+  padding: 10px 10px 0px 10px;
+  margin: 30px;
+  height: 68vh;         /* less than before */
+  width: 39vw;          /* slightly reduced */
+}
+
+
+.ingg{
+    height: 100px;
+    width: 100px;
+}
+.buttonn{
+        margin: 6px 6px 0px 0px;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+.divc{
+  margin-top: 10px;
+}
+.divc a{
+  margin-left: 4px;
+}
+.divc p{
+  padding: 4px;
+  margin-bottom: 4px;
+}
+
