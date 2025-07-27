@@ -60,7 +60,7 @@ fill
           href={livelink}
           target="_blank"
           rel="noopener noreferrer"
-          className="block mb-3 text-xl font-semibold tracking-tight font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-700 to-pink-400 hover:underline hover:text-purple-600 transition-colors"
+          className="block mb-3 text-xl font-semibold tracking-tight  text-transparent bg-clip-text bg-gradient-to-r from-purple-700 to-pink-400 hover:underline hover:text-purple-600 transition-colors"
         >
           {title}
         </a>
