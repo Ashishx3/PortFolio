@@ -27,4 +27,50 @@
   padding: 4px;
   margin-bottom: 4px;
 }
+.spann{
+  
+    border-radius: 2px;
+background-color: #141020;
+   padding: 3px;
+    text-align: center;
+width: 69px;
+   height: 26px;
+}
+
+@media (max-width:768px) {
+    .cardc{
+        padding: 4px 10px 0px 10px;
+    margin: 28px;
+    height: 40vh;
+    width: 83vw;
+}
+.divc p{
+        font-size: 10px;
+}
+
+.spann{
+    font-size: 9px;
+    border-radius: 2px;
+    background-color: rgb(20, 16, 32);
+    padding: 3px;
+    text-align: center;
+    width: 60px;
+    height: 23px;
+}
+.buttonn {
+    font-size: 12px;
+    margin: 10px 3px 0px 0px;
+    width: 80px;
+    height: 32px;
+}
+
+.khiched{
+    margin-bottom: -90px;
+    height: 260px;
+}
+.imageformobile{
+    height: 60% !important;
+}
+    
+}
 

@@ -52,7 +52,7 @@ Frontend built with React and deployed on Vercel; backend built with Express and
 />
 
         <Card
-        imagelink="/Examsavior.png"
+        imagelink="/projectsimage/Examsavior.png"
         langs={["Ejs","Css","Js","Sql",""]}
           title="Exam Savior"
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.
@@ -62,7 +62,7 @@ Includes user authentication for login and signup to personalize the experience.
           githublink="https://github.com/Ashishx3/ExamSavior"
         />
         <Card
-        imagelink="/Examsavior.png"
+        imagelink="/projectsimage/Examsavior.png"
         langs={["Ejs","Css","Js","Sql",""]}
           title="Exam Savior"
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.

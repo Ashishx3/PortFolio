@@ -6,8 +6,8 @@ const Certificates = () => {
   return (
     <div id='certificates'>
       <div className="w-full bg-black text-center flex-col  items-center flex min-h-screen">
-     <div className="w-full items-center justify-center flex bg-slate-950 py-10 h-[65px] brightness-105 text-center">
-        <span className="text-3xl text-white font-bold">Certificates :-</span>
+     <div className="w-full items-center justify-center flex bg-black border border-t-purple-500 border-b-purple-500 py-10 h-[65px] brightness-105 text-center">
+        <span className="text-3xl text-purple-600  font-bold">Certificates :-</span>
       </div>
    
         <div  className="relative w-[70vw] mt-10 mx-auto overflow-hidden cont rounded-xl shadow-lg">

@@ -42,12 +42,12 @@ fill
             priority
           />
         </div> */}
-        <div className="relative w-full h-[260px]">
+        <div className="relative khiched w-full h-[260px]">
   <Image
     src={imagelink}
     alt={title}
     fill
-    className="object-cover rounded-t-xl"
+    className="imageformobile object-cover rounded-t-xl"
     priority
   />
 </div>
@@ -73,15 +73,7 @@ fill
           {langs.map((lang, index) => (
            <span
   key={index}
-  className="text-xs text-white border border-gray-700 inline-flex items-center justify-center me-2 mb-2 sm:text-sm sm:me-2 sm:mb-2"
-  style={{
-    borderRadius: '2px',
-    backgroundColor: '#141020',
-    padding: '3px',
-    textAlign: 'center',
-    width: '69px',
-    height: '26px',
-  }}
+  className="text-xs spann text-white border border-gray-700 inline-flex items-center justify-center me-2 mb-2 sm:text-sm sm:me-2 sm:mb-2"
 >
   {lang}
 </span>

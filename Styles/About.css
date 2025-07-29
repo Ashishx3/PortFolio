@@ -60,3 +60,46 @@ body{
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
 }
+
+/* ////responsiveness */
+
+@media (max-width: 768px) {
+  .aboutdiv {
+    flex-direction: column !important;
+    margin-top: 60px;
+    padding: 0 1rem;
+    align-items: center !important;
+  }
+
+  .Aboutme {
+    font-size: 2rem !important;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .aboutdiv p {
+    width: 100% !important;
+    font-size: 16px !important;
+    line-height: 1.6;
+    text-align: justify;
+  }
+
+  .sp {
+    font-size: 1.5rem !important;
+    display: block;
+    text-align: left;
+  }
+
+  .aboutdiv > div:last-child {
+    width: 100% !important;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+
+  .imageskill {
+    width: 70px !important;
+    height: 70px !important;
+  }
+}
