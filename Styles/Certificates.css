@@ -20,7 +20,7 @@
     padding: 3px;
     font-size: larger;
     margin-bottom: 2px;
-}
+} 
 .cont {
   height: 56vh;
   padding: 26px;
@@ -38,6 +38,11 @@
 }
 
 @media (max-width:768px) {
-  
+  .heihgtt{
+    height: 90vh;
+  }
+  .cont{
+    height: 50vh;
+  }
   
 }

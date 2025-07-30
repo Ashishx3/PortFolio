@@ -8,6 +8,7 @@ import Smoothcursor from "@/components/Smoothcursor";
 import Projects from "@/components/Projects";
 import About from "@/components/About";
 import Certificates from "@/components/Certificates";
+import Footer from "@/components/footer";
 
 
 
@@ -22,7 +23,7 @@ export default function Home() {
   <About/>
   <Projects/>
   <Certificates/>
-    
+    <Footer/>
     
     </div>
   );

@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="basis-[40%] mx-2">
           <Link className='flex on flex-wrap w-[60%]' href="/">
             <p className='navtextlogo px-1'>Ashish Singh</p>
-            <Image width={20} height={20} className='onmobile' src='/js.png'></Image>
+            <Image width={35} height={35} className='onmobile' src='/AS.png'></Image>
           </Link>
         </div>
 

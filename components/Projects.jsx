@@ -12,7 +12,7 @@ const Projects = () => {
       </div>
 
       {/* Card section with spacing */}
-      <div className="container flex  flex-wrap flex-row justify-center mt-10 mb-10 px-4">
+      <div className="container flex flex-wrap flex-row justify-center mt-10 mb-10 px-4">
         <Card
         imagelink="/projectsimage/Examsavior.png"
         langs={["Ejs","Css","Js","Sql","Router","Postgres"]}
