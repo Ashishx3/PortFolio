@@ -33,14 +33,7 @@ Includes user authentication for login and signup to personalize the experience.
           livelink="https://notes-submitter.vercel.app"
           githublink="https://github.com/Ashishx3/NotesUploaderFrontend"
         />
-       <Card
-  imagelink="/projectsimage/tts.png"
-  langs={["HTML", "CSS", "JS","Python"]}
-  title="Text-To-Speech Web App"
-  content="A lightweight web app that converts written text into speech using the Web Speech API. Designed for quick revision and accessibility. Built using only HTML, CSS, and JavaScript and Python."
-  livelink="https://textospeech-one.vercel.app"
-  githublink="https://github.com/Ashishx3/Text-to-speech"
-/>
+       
 <Card
   imagelink="/projectsimage/comp.png"
   langs={["React.JS", "Tailwind", "Express", "SQL", "Node"]}
@@ -52,9 +45,9 @@ Frontend built with React and deployed on Vercel; backend built with Express and
 />
 
         <Card
-        imagelink="/projectsimage/Examsavior.png"
-        langs={["Ejs","Css","Js","Sql",""]}
-          title="Exam Savior"
+        imagelink="/projectsimage/codeverse.png"
+        langs={["React.js","Tailwind","Router","Sql"]}
+          title="Code Verse"
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.
 Built with Express (API + Routes), EJS, HTML/CSS/JS, and PostgreSQL.
 Includes user authentication for login and signup to personalize the experience."
@@ -62,13 +55,21 @@ Includes user authentication for login and signup to personalize the experience.
           githublink="https://github.com/Ashishx3/ExamSavior"
         />
         <Card
-        imagelink="/projectsimage/Examsavior.png"
-        langs={["Ejs","Css","Js","Sql",""]}
+  imagelink="/projectsimage/tts.png"
+  langs={["HTML", "CSS", "JS","Python"]}
+  title="Text-To-Speech Web App"
+  content="A lightweight web app that converts written text into speech using the Web Speech API. Designed for quick revision and accessibility. Built using only HTML, CSS, and JavaScript and Python."
+  livelink="https://textospeech-one.vercel.app"
+  githublink="https://github.com/Ashishx3/Text-to-speech"
+/>
+        <Card
+        imagelink="/projectsimage/portfolio.png"
+        langs={["Next JS","Tailwind", "Framer","AOS","Cursify"]}
           title="Exam Savior"
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.
 Built with Express (API + Routes), EJS, HTML/CSS/JS, and PostgreSQL.
 Includes user authentication for login and signup to personalize the experience."
-          livelink="https://examsavior.net"
+          livelink="https://ashishsinghportfolio.vercel.app"
           githublink="https://github.com/Ashishx3/ExamSavior"
         />
       </div>

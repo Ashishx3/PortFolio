@@ -1,0 +1,28 @@
+@media screen and (max-width: 768px) {
+  footer {
+    height: auto !important;
+    padding: 16px 0;
+    text-align: center;
+  }
+
+  footer h1 {
+    font-size: 1rem !important;
+    white-space: nowrap;
+  }
+
+  footer > div {
+    flex-direction: column !important;
+    gap: 8px !important;
+    align-items: center !important;
+  }
+
+  footer a {
+    font-size: 0.8rem !important;
+  }
+
+  footer .text-gray-400 {
+    gap: 12px !important;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

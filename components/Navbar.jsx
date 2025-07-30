@@ -13,13 +13,13 @@ const Navbar = () => {
         <div className="basis-[40%] mx-2">
           <Link className='flex on flex-wrap w-[60%]' href="/">
             <p className='navtextlogo px-1'>Ashish Singh</p>
-            <Image width={35} height={35} className='onmobile' src='/AS.png'></Image>
+            <Image width={35} height={35} alt="Profile logo" className='onmobile' src='/AS.png'></Image>
           </Link>
         </div>
 
         <div className="basis-[40%] flex justify-end">
           <ul className='text-white flex gap-6 ull'>
-            <li><Link    href="#aboutscroll">About</Link></li>
+            <li><Link href="#aboutscroll">About</Link></li>
             <li><Link href="#certificates">Certifications</Link></li>
             <li><Link href="/Contact">Contact</Link></li>
             <li><Link href="/">Resume</Link></li>
