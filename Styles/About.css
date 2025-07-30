@@ -69,6 +69,7 @@ body{
     margin-top: 60px;
     padding: 0 1rem;
     align-items: center !important;
+    margin-bottom: 10px;
   }
 
   .Aboutme {
@@ -101,5 +102,8 @@ body{
   .imageskill {
     width: 70px !important;
     height: 70px !important;
+  }
+  .with{
+    width: 100%;
   }
 }

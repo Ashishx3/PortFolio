@@ -19,15 +19,19 @@ const Herosection = () => {
         />
 
         {/* Right Side - 70% width */}
+        {/* Ashish Singh  
+Full-Stack Web Developer  
+Data Science | AI | Backend | UI/UX   */}
+
         <div className="w-[65%] flex items-center justify-end pr-10">
           <h1 className="text-right font-semibold leading-tight capitalize">
-            <span className="block xl:text-7xl md:text-6xl sm:text-5xl text-4xl text-white">
+            <span className="block xl:text-7xl md:text-6xl sm:text-5xl text-4xl text-white text-center">
               ASHISH SINGH
             </span>
             <span className="block xl:text-7xl md:text-6xl sm:text-5xl text-4xl text-white">
               Full-Stack Developer
             </span>
-            <span className="block ddd xl:text-6xl md:text-5xl sm:text-4xl text-3xl text-white mt-2">
+            <span className="block ddd xl:text-6xl md:text-5xl sm:text-4xl text-3xl text-center text-white mt-2">
               Data Science Student
             </span>
           </h1>
