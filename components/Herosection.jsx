@@ -13,7 +13,7 @@ const Herosection = () => {
         <Image
           width={350}
           height={50}
-          src="/profile.png"
+          src="/projectsimage/profile.png"
           alt='profile'
           className="ml-2.5 object-fill bg-gray-200 p-4 rounded-full shadow-md flex items-center justify-center"
         />
