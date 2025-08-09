@@ -14,7 +14,7 @@ const Footer = () => {
        
         <div style={{marginLeft:"40px"}} className="flex flex-wrap justify-center gap-6 text-sm sm:text-base text-gray-400">
           <a href="#about" className="hover:text-white transition">Home</a>
-          <a href="#projects" className="hover:text-white transition">Resume</a>
+          <a href="/Resume.pdf" className="hover:text-white transition">Resume</a>
           
           <a  className="hover:text-white transition">Email: <a href="#" className="hover:text-white transition hover:underline" target="_blank">ashishsinghxt@gmail.com </a></a>
         </div>
