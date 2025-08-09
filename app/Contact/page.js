@@ -1,12 +1,26 @@
 // components/Contact.js
 import { FaEnvelope, FaLinkedin, FaDownload } from "react-icons/fa";
+import CanvasCursor from "@/components/Cursor";
+import Smoothcursor from "@/components/Smoothcursor";
+import "./conttt.css"
+// /Contact/page.js (or wherever your page is)
+export const viewport = {
+  themeColor: '#000000',
+};
+
+export const metadata = {
+  title: 'Contact',
+  description: 'Get in touch',
+};
 
 export default function Contact() {
   return (
+    
    
     <main className="flex justify-center items-center min-h-screen ">
-    
-    <div className="flex flex-col items-center gap-4 p-6  bg-gray-100  rounded-2xl shadow-md w-full max-w-md mx-auto">
+    <CanvasCursor/>
+   <Smoothcursor/>
+    <div className="flex contt flex-col items-center gap-4 p-6  bg-gray-100  rounded-2xl shadow-md w-full max-w-md mx-auto">
       <h2 className="text-2xl font-bold text-gray-800">Contact Me</h2>
       
       {/* Email */}
