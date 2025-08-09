@@ -46,7 +46,7 @@ Frontend built with React and deployed on Vercel; backend built with Express and
 
     <Card
   imagelink="/projectsimage/codeverse.png"
-  langs={["React.js", "Tailwind", "React Router", "SQL"]}
+  langs={["React.js", "Tailwind", "React.Js", "SQL"]}
   title="Code Verse"
   content="A robust and scalable platform being built with React.js and Tailwind CSS. 
 It utilizes React Router for seamless navigation and SQL for structured data handling. 
@@ -65,11 +65,10 @@ Currently under development with a focus on performance, responsiveness, and cle
 />
       <Card
   imagelink="/projectsimage/portfolio.png"
-  langs={["Next.js", "Tailwind CSS", "FramerMotion", "AOS", "Cursify"]}
+  langs={["Next.js", "Tailwind", "FramerM", "AOS", "Cursify"]}
   title="My Portfolio"
   content="A modern, responsive personal portfolio showcasing my projects, skills, and resume. 
-Built using Next.js, styled with Tailwind CSS, and enhanced with smooth animations using Framer Motion and AOS. 
-Features email integration and dynamic project components to highlight work efficiently."
+Built using Next.js, styled with Tailwind CSS, and enhanced with smooth animations using Framer Motion and AOS and have components to highlight work efficiently."
   livelink="https://ashishsinghportfolio.vercel.app"
   githublink="https://github.com/Ashishx3/PortFolio"
 />
