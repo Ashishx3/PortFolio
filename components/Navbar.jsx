@@ -22,7 +22,7 @@ const Navbar = () => {
             <li><Link href="#aboutscroll">About</Link></li>
             <li><Link href="#certificates">Certifications</Link></li>
             <li><Link href="/Contact">Contact</Link></li>
-            <li><Link href="/">Resume</Link></li>
+            <li><Link href="/Resume.pdf">Resume</Link></li>
           </ul>
         </div>
 

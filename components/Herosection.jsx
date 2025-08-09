@@ -15,7 +15,7 @@ const Herosection = () => {
           height={50}
           src="/projectsimage/profile.png"
           alt='profile'
-          className="ml-2.5 object-fill bg-gray-200 p-4 rounded-full shadow-md flex items-center justify-center"
+          className="ml-2.5 object-cover bg-gray-200 p-4 rounded-full shadow-md flex items-center justify-center"
         />
 
         {/* Right Side - 70% width */}
