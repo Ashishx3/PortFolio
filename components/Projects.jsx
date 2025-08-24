@@ -64,7 +64,7 @@ Currently under development with a focus on performance, responsiveness, and cle
   githublink="https://github.com/Ashishx3/Text-to-speech"
 />
       <Card
-  imagelink="/projectsimage/portfolio.png"
+  imagelink="/projectsimage/image.png"
   langs={["Next.js", "Tailwind", "FramerM", "AOS", "Cursify"]}
   title="My Portfolio"
   content="A modern, responsive personal portfolio showcasing my projects, skills, and resume. 
