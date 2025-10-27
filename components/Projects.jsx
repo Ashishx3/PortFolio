@@ -16,13 +16,22 @@ const Projects = () => {
         <Card
         imagelink="/projectsimage/Examsavior.png"
         langs={["Ejs","Css","Js","Sql","Router","Postgres"]}
-          title="Exam Savior"
+          title="Exam Savior (SAAS)"
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.
 Built with Express (API + Routes), EJS, HTML/CSS/JS, and PostgreSQL.
 Includes Controller Based user authentication for login and signup to personalize the experience."
           livelink="https://examsavior.net"
           githublink="https://github.com/Ashishx3/ExamSavior"
         />
+         <Card
+  imagelink="/projectsimage/AyurCare.png"
+  langs={["Next JS", "React", "API", "Tailwind", "Framer Motion"]}
+  title="AyurCare — AI-Powered Patient Management & Therapy Scheduler (SAAS)"
+  content="An advanced healthcare management platform designed for seamless patient record handling, therapy scheduling, and smart notifications. AyurCare integrates AI-driven insights to assist practitioners in personalized treatment planning and efficient session tracking. Built with Next.js, Tailwind, and REST APIs, it embodies SIH-level innovation for modern Ayurvedic care management."
+  livelink="https://ayurcare01.vercel.app"
+  githublink="https://github.com/Ashishx3/AyurCare" 
+/>
+ 
         <Card
         imagelink="/projectsimage/Notessubmission.png"
         langs={["React JS","Tailwind","Router","Express","UplaodThing"]}
@@ -30,7 +39,7 @@ Includes Controller Based user authentication for login and signup to personaliz
           content="A notes platform with TTS, last-year papers, and key questions for quick exam prep.
 Built with Express (API + Routes), EJS, HTML/CSS/JS, and PostgreSQL.
 Includes user authentication for login and signup to personalize the experience."
-          livelink="https://notes-submitter.vercel.app"
+          livelink="https://notes-uploader.vercel.app"
           githublink="https://github.com/Ashishx3/NotesUploaderFrontend"
         />
        
